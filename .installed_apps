@@ -1,0 +1,21 @@
+rclone
+djviewer4
+texlive-full
+gnome-tweaks
+openssh-server
+modem-manager-gui
+usb-modeswitch
+libusb
+git
+xboxdrv
+gparted
+inkscape
+obs-studio
+vim
+vlc
+
+# installed via .deb
+# pulsevpn
+# nordvpn
+# vscode
+# foxitreader
