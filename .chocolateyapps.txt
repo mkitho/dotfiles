@@ -1,0 +1,11 @@
+adobereader
+Everything
+Firefox
+GoogleChrome
+greenshot
+imageglass
+peazip
+steam
+vlc
+wox
+zoom
