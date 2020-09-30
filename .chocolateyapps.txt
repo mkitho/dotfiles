@@ -9,3 +9,6 @@ steam
 vlc
 wox
 zoom
+treesizefree
+vscode
+notepadplusplus
