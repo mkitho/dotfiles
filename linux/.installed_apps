@@ -1,0 +1,43 @@
+android-tools-adb
+android-tools-fastboot
+dbeaver
+deluge
+djviewer4
+ffmpeg
+flameshot
+git
+gnome-tweaks
+gparted
+htop
+inkscape
+libusb
+mailspring
+miniconda
+modem-manager-gui
+obs-studio
+openjdk-8-jre-headless
+openssh-server
+rclone
+remmina
+shotwell
+texlive-full
+tmux
+unzip
+usb-modeswitch
+vim
+vlc
+xboxdrv
+youtube-dl
+zoom
+
+# installed via .deb
+# google-chrome
+# pulsevpn
+# nordvpn
+# code
+# code-insiders
+# foxitreader
+# nvidia
+
+# other methods
+miniconda
